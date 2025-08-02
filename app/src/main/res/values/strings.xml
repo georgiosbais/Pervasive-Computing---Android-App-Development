@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyCameraApp</string>
+    <string name="back_button_text">Back</string>
+    <string name="captured_photo_desc">Captured Photo</string>
+    <string name="photo_icon">Icon of a person taking a photo</string>
+</resources>
